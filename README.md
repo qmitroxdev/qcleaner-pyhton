@@ -1,6 +1,5 @@
 # qcleaner-pyhton
-Hello, there is a Cleaner in Pyhton!
-
+**This script can make changes to your computer this script is by (qmitrox) and was written in Pyhton 3.8**
 
 
 Copyright (c) 2020-2021 qmitrox
